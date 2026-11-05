@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Yingle"
+  given-names: "Tang"
+  orcid id: "0000 0002 1471 1490"
+title: "VaP_analysis_code"
+version: 1.0.0
+           
+date-released: 2026-11-05
+url: "https://github.com/AlsaTang/VaP_analysis_code"
